@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Coroutines Sample</string>
+    <string name="enter_the_word_count">Enter the word count</string>
+    <string name="get_words">Get Words</string>
 </resources>
